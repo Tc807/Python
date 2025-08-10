@@ -1,3 +1,5 @@
+ Basic_Assighment_1
+ 
 Task 1: Perform Basic Mathematical Operations
 
 Problem Statement: Write a Python program that does the following:
@@ -12,10 +14,15 @@ o	Division
  Expected Output:
 
 Enter the first number: 5
+
 Enter the second number: 10
+
 Addition:  15
+
 Subtraction:  -5
+
 Multiplication:  50
+
 Division:  0.5
 
 Task 2: Create a Personalized Greeting
@@ -26,7 +33,9 @@ Problem Statement: Write a Python program that:
 Expected Output:
 
 Enter your first name: Jhon
+
 Enter your last name: Doe
+
 Hello, JhonDoe! Welcome to the Python program.
 
 Process finished with exit code 0
